@@ -1,0 +1,6 @@
+setuptools-rust==1.5.2
+load_dotenv==0.1.0
+flask==2.2.3
+langchain
+openai
+markdown
